@@ -1,7 +1,7 @@
 import os
 import shutil
 
-# simple script to organize the desktop 
+# simple script to organize the desktop  
 
 def stu_activities():
     for dir in os.listdir("/Users/Desktop"):
